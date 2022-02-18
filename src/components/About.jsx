@@ -12,7 +12,7 @@ const styles = {
     margin: 10,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
-    textAlign: 'left',
+    textAlign: 'center',
     fontSize: '1.2em',
     fontWeight: 500,
   },
