@@ -90,7 +90,6 @@ function Experience(props) {
                                 }}
                               />
                             </li>
-                            <br />
                           </div>
                         ))}
                       </ul>
