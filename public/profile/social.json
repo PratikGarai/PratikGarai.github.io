@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/pratik-garai-bab1a4191/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/PratikGarai"
         },
         {
-            "network" : "email",
-            "href": "mailto:test@test.com"
+            "network" : "discord",
+            "href" : "https://discordapp.com/users/643792486245990420"
+        },
+        {
+            "network" : "linktree",
+            "href" : "https://linktr.ee/PratikGarai"
         }
     ]
 }
