@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useEffect, useContext } from 'react';
 import { Container, Row, Button } from 'react-bootstrap';
 import { ThemeContext } from 'styled-components';
@@ -39,7 +40,8 @@ const Projects = (props) => {
         ? (
           <div className="section-content-container">
             <Container style={styles.containerStyle}>
-              <Row xs={1} sm={1} md={2} lg={3} className="g-4">
+              <h3> This part is under construction 🛠️🛠️🛠️ </h3>
+              {/* <Row xs={1} sm={1} md={2} lg={3} className="g-4">
                 {data.projects?.slice(0, numberOfItems).map((project) => (
                   <Fade key={project.title}>
                     <ProjectCard project={project} />
@@ -56,7 +58,7 @@ const Projects = (props) => {
                 >
                   show more
                 </Button>
-                )}
+                )} */}
             </Container>
           </div>
         ) : <FallbackSpinner /> }

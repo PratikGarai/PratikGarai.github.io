@@ -52,7 +52,7 @@ function Experience(props) {
         ? (
           <div className="section-content-container">
             <Container>
-              <h3>Work Experience</h3>
+              <h2>Work Experience</h2>
               <Timeline
                 lineColor={theme.timelineLineColor}
               >
@@ -99,7 +99,7 @@ function Experience(props) {
                 ))}
               </Timeline>
 
-              <h3>Volunteer Experience</h3>
+              <h2>Volunteer Experience</h2>
               <Timeline
                 lineColor={theme.timelineLineColor}
               >
