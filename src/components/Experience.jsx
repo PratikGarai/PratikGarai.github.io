@@ -40,7 +40,7 @@ function Experience(props) {
       method: 'GET',
     })
       .then((res) => res.json())
-      .then((res) => setData(res.experiences))
+      .then((res) => setData(res))
       .catch((err) => err);
   }, []);
 
@@ -52,10 +52,58 @@ function Experience(props) {
         ? (
           <div className="section-content-container">
             <Container>
+              <h3>Work Experience</h3>
               <Timeline
                 lineColor={theme.timelineLineColor}
               >
-                {data.map((item) => (
+                {data.experiences.map((item) => (
+                  <Fade>
+                    <TimelineItem
+                      key={item.title + item.dateText}
+                      dateText={item.dateText}
+                      dateInnerStyle={{ background: theme.accentColor }}
+                      style={styles.itemStyle}
+                      bodyContainerStyle={{ color: theme.color }}
+                    >
+                      <h2 className="item-title">
+                        {item.title}
+                      </h2>
+                      <div style={styles.subtitleContainerStyle}>
+                        <h4 style={{ ...styles.subtitleStyle, color: theme.accentColor }}>
+                          {item.subtitle}
+                        </h4>
+                        {item.workType && (
+                        <h5 style={styles.inlineChild}>
+                    &nbsp;·
+                          {' '}
+                          {item.workType}
+                        </h5>
+                        )}
+                      </div>
+                      <ul style={styles.ulStyle}>
+                        {item.workDescription.map((point) => (
+                          <div key={point}>
+                            <li>
+                              <ReactMarkdown
+                                children={point}
+                                components={{
+                                  p: 'span',
+                                }}
+                              />
+                            </li>
+                          </div>
+                        ))}
+                      </ul>
+                    </TimelineItem>
+                  </Fade>
+                ))}
+              </Timeline>
+
+              <h3>Volunteer Experience</h3>
+              <Timeline
+                lineColor={theme.timelineLineColor}
+              >
+                {data.volunteers.map((item) => (
                   <Fade>
                     <TimelineItem
                       key={item.title + item.dateText}

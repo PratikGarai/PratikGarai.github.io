@@ -38,7 +38,8 @@
             "subtitle": "VIT Chennai",
             "workType": "Internship",
             "workDescription": [
-                "Researched on Federated and Continual Learning."
+                "Researched on Federated and Continual Learning.",
+                "Implemented FedAvg using Flower on various datasets."
             ],
             "dateText": "04/2021 – 05/2021"
         },
@@ -53,5 +54,60 @@
             ],
             "dateText": "08/2020 – Present"
         }
-    ]
+    ],
+    "volunteers": [
+        {
+            "title": "Dreadnought Robotics",
+            "subtitle": "Member of Programming Team",
+            "workType": "",
+            "workDescription": [
+                "Represented at various robotics competitions and hackathons.", 
+                "Conducted knowledge sharing sessions.",
+                "Created and managed the team's website.",
+                "Memebr of interview panel during recruitments."
+            ],
+            "dateText": "01/2020 – Present"
+        },
+        {
+            "title": "Google Developer Student Club",
+            "subtitle": "Open Source Division",
+            "workType": "",
+            "workDescription": [
+                "Contributed to 2x internal projects.",
+                "Participated in joint project with Université de Pau et des Pays de l'Adour."
+            ],
+            "dateText": "09/2020 – Present"
+        },
+        {
+            "title": "Microsoft Innovations Club, VITC",
+            "subtitle": "Technical Head",
+            "workType": "",
+            "workDescription": [
+                "Overlook the development of 2x internal projects.",
+                "Created various tech to make management of organization easier.",
+                "Member of interview panel."
+            ],
+            "dateText": "08/2021 – Present"
+        },
+        {
+            "title": "Microsoft Innovations Club, VITC",
+            "subtitle": "Backend Mentor",
+            "workType": "",
+            "workDescription": [
+                "Conducted a knowledge sharing session."
+            ],
+            "dateText": "03/2021 – 10/2021"
+        },
+        {
+            "title": "IIT PALS",
+            "subtitle": "Techchnical Department",
+            "workType": "",
+            "workDescription": [
+                "Developed club's website.",
+                "Worked on internal projects.",
+                "Member of interview panel during recruitments."
+            ],
+            "dateText": "01/2020 – 09/2021"
+        }
+    ] 
 }
