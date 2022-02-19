@@ -40,7 +40,7 @@ const Projects = (props) => {
         ? (
           <div className="section-content-container">
             <Container style={styles.containerStyle}>
-              <h3> This part is under construction 🛠️🛠️🛠️ </h3>
+              <h3> This section is under construction 🛠️🛠️🛠️ </h3>
               {/* <Row xs={1} sm={1} md={2} lg={3} className="g-4">
                 {data.projects?.slice(0, numberOfItems).map((project) => (
                   <Fade key={project.title}>

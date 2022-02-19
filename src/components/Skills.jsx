@@ -10,7 +10,7 @@ import FallbackSpinner from './FallbackSpinner';
 const styles = {
   iconStyle: {
     height: 75,
-    width: 75,
+    width: 72.5,
     margin: 10,
     marginBottom: 0,
   },
@@ -57,9 +57,12 @@ function Skills(props) {
                         src={item.icon}
                         alt={item.title}
                       />
-                      <p>{item.title}</p>
+                      {/* <p>{item.title}</p> */}
                     </div>
                   ))}
+                  <br />
+                  <br />
+                  <br />
                 </div>
               ))}
             </Container>
