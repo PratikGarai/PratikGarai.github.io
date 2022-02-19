@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Jul 2019 - Jun 2023",
+            "cardTitle": "B.Tech, Computer Science with spec. AI/ML",
+            "cardSubtitle":"VIT University, Chennai",
+            "cardDetailedText": "CGPA - 8.98 (Present)",
+            "icon" : {
+                "src": "images/education/vit.png"
+            }
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Julien Day School, Kalyani",
+            "cardDetailedText": "Marks - 87.8%",
+            "icon" : {
+                "src": "images/education/jds.jpg"
+            }
+        },
+        {
+            "title": "Apr 2017",
+            "cardTitle": "Secondary School",
+            "cardSubtitle":"Julien Day School, Kalyani",
+            "cardDetailedText": "Marks - 92.4%",
+            "icon" : {
+                "src": "images/education/jds.jpg"
+            }
+        }
+    ]
+}

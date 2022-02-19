@@ -1,0 +1,113 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Pharmiq",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on Backend flow.",
+                "Worked on Data aggreagation module.",
+                "Worked on adding NLP based features to product."
+            ],
+            "dateText": "08/2021 – Present"
+        },
+        {
+            "title": "Research and Development",
+            "subtitle": "Samsung Research, Bangalore",
+            "workType": "Internship",
+            "workDescription": [
+                "Development of Language models.",
+                "Researched on Federated Learning strategies.",
+                "Developed Federated versions of 2 State Of The Art OCR models."
+            ],
+            "dateText": "11/2021 – Present"
+        },
+        {
+            "title": "AI Research and Development",
+            "subtitle": "ZOHO",
+            "workType": "Internship",
+            "workDescription": [
+                "Researched on OCR models.",
+                "Researched on Federated Learning strategies.",
+                "Developed Federated versions of 2 State Of The Art OCR models."
+            ],
+            "dateText": "08/2021 – 01/2022"
+        },
+        {
+            "title": "AI Research",
+            "subtitle": "VIT Chennai",
+            "workType": "Internship",
+            "workDescription": [
+                "Researched on Federated and Continual Learning.",
+                "Implemented FedAvg using Flower on various datasets."
+            ],
+            "dateText": "04/2021 – 05/2021"
+        },
+        {
+            "title": "Freelance",
+            "subtitle": "Self employed",
+            "workType": "",
+            "workDescription": [
+                "ROS programmer and Developer.",
+                "Text classification for customer sentiment analysis.",
+                "Image annotation API using Resnet, SSD Mobilenet."
+            ],
+            "dateText": "08/2020 – Present"
+        }
+    ],
+    "volunteers": [
+        {
+            "title": "Dreadnought Robotics",
+            "subtitle": "Member of Programming Team",
+            "workType": "",
+            "workDescription": [
+                "Represented at various robotics competitions and hackathons.", 
+                "Conducted knowledge sharing sessions.",
+                "Created and managed the team's website.",
+                "Memebr of interview panel during recruitments."
+            ],
+            "dateText": "01/2020 – Present"
+        },
+        {
+            "title": "Google Developer Student Club",
+            "subtitle": "Open Source Division",
+            "workType": "",
+            "workDescription": [
+                "Contributed to 2x internal projects.",
+                "Participated in joint project with Université de Pau et des Pays de l'Adour."
+            ],
+            "dateText": "09/2020 – Present"
+        },
+        {
+            "title": "Microsoft Innovations Club, VITC",
+            "subtitle": "Technical Head",
+            "workType": "",
+            "workDescription": [
+                "Overlook the development of 2x internal projects.",
+                "Created various tech to make management of organization easier.",
+                "Member of interview panel."
+            ],
+            "dateText": "08/2021 – Present"
+        },
+        {
+            "title": "Microsoft Innovations Club, VITC",
+            "subtitle": "Backend Mentor",
+            "workType": "",
+            "workDescription": [
+                "Conducted a knowledge sharing session."
+            ],
+            "dateText": "03/2021 – 10/2021"
+        },
+        {
+            "title": "IIT PALS",
+            "subtitle": "Techchnical Department",
+            "workType": "",
+            "workDescription": [
+                "Developed club's website.",
+                "Worked on internal projects.",
+                "Member of interview panel during recruitments."
+            ],
+            "dateText": "01/2020 – 09/2021"
+        }
+    ] 
+}
