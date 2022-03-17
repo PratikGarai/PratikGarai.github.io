@@ -17,8 +17,7 @@
             "workType": "Internship",
             "workDescription": [
                 "Development of Language models.",
-                "Researched on Federated Learning strategies.",
-                "Developed Federated versions of 2 State Of The Art OCR models."
+                "Integration of various technologies like RASA, fast_text, JarvisAI, etc."
             ],
             "dateText": "11/2021 – Present"
         },
@@ -32,6 +31,16 @@
                 "Developed Federated versions of 2 State Of The Art OCR models."
             ],
             "dateText": "08/2021 – 01/2022"
+        },
+        {
+            "title": "Research and Development",
+            "subtitle": "Samsung Research, Bangalore",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed an Image and video annotaion API",
+                "Usage of SOTA models like Resnet, SSD MobileNet, etc."
+            ],
+            "dateText": "07/2021 – 01/2022"
         },
         {
             "title": "AI Research",
