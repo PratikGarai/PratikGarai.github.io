@@ -107,6 +107,16 @@
     "volunteers": [
         {
             "title": "Dreadnought Robotics",
+            "subtitle": "Head of Programming Team",
+            "workType": "",
+            "workDescription": [
+                "Manged the activities of the Programming department.", 
+                "Conducted knowledge sharing and training sessions."
+            ],
+            "dateText": "01/2020 – 06/2022"
+        },
+        {
+            "title": "Dreadnought Robotics",
             "subtitle": "Member of Programming Team",
             "workType": "",
             "workDescription": [
@@ -115,7 +125,7 @@
                 "Created and managed the team's website.",
                 "Memebr of interview panel during recruitments."
             ],
-            "dateText": "01/2020 – Present"
+            "dateText": "01/2020 – 06/2022"
         },
         {
             "title": "Google Developer Student Club",
@@ -125,7 +135,7 @@
                 "Contributed to 2x internal projects.",
                 "Participated in joint project with Université de Pau et des Pays de l'Adour."
             ],
-            "dateText": "09/2020 – Present"
+            "dateText": "09/2020 – 08/2022"
         },
         {
             "title": "Microsoft Innovations Club, VITC",
@@ -136,7 +146,7 @@
                 "Created various tech to make management of organization easier.",
                 "Member of interview panel."
             ],
-            "dateText": "08/2021 – Present"
+            "dateText": "08/2021 – 08/2022"
         },
         {
             "title": "Microsoft Innovations Club, VITC",
