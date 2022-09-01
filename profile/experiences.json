@@ -1,6 +1,46 @@
 {
     "experiences": [
         {
+            "title": "Backend Web Developer",
+            "subtitle": "MetAnalytics Solutions LLP",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on developing Backend using NodeJs.",
+                "Worked on developing testing suite using Mocha and Chai."
+            ],
+            "dateText": "08/2022 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Microsoft",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on Azure Synapse.",
+                "Worked on comparing performance of Pandas and PandasAPI."
+            ],
+            "dateText": "05/2022 – 07/2022"
+        },
+        {
+            "title": "Backend Web Developer",
+            "subtitle": "Clickdee",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on integration of Blockchain protocols.",
+                "Worked on storing and linking of Blockchain data in centralized storage."
+            ],
+            "dateText": "03/2022 – 06/2022"
+        },
+        {
+            "title": "Backend Web Developer",
+            "subtitle": "Ticketh",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on Backend flow.",
+                "Worked on setting up CRON, Razorpay and SendGrid."
+            ],
+            "dateText": "03/2022 – 06/2022"
+        },
+        {
             "title": "Software Engineer",
             "subtitle": "Pharmiq",
             "workType": "Internship",
@@ -9,7 +49,7 @@
                 "Worked on Data aggreagation module.",
                 "Worked on adding NLP based features to product."
             ],
-            "dateText": "08/2021 – Present"
+            "dateText": "08/2021 – 05/2022"
         },
         {
             "title": "Research and Development",
@@ -19,7 +59,7 @@
                 "Development of Language models.",
                 "Integration of various technologies like RASA, fast_text, JarvisAI, etc."
             ],
-            "dateText": "11/2021 – Present"
+            "dateText": "11/2021 – 08/2022"
         },
         {
             "title": "AI Research and Development",
@@ -67,6 +107,16 @@
     "volunteers": [
         {
             "title": "Dreadnought Robotics",
+            "subtitle": "Head of Programming Team",
+            "workType": "",
+            "workDescription": [
+                "Manged the activities of the Programming department.", 
+                "Conducted knowledge sharing and training sessions."
+            ],
+            "dateText": "01/2020 – 06/2022"
+        },
+        {
+            "title": "Dreadnought Robotics",
             "subtitle": "Member of Programming Team",
             "workType": "",
             "workDescription": [
@@ -75,7 +125,7 @@
                 "Created and managed the team's website.",
                 "Memebr of interview panel during recruitments."
             ],
-            "dateText": "01/2020 – Present"
+            "dateText": "01/2020 – 06/2022"
         },
         {
             "title": "Google Developer Student Club",
@@ -85,7 +135,7 @@
                 "Contributed to 2x internal projects.",
                 "Participated in joint project with Université de Pau et des Pays de l'Adour."
             ],
-            "dateText": "09/2020 – Present"
+            "dateText": "09/2020 – 08/2022"
         },
         {
             "title": "Microsoft Innovations Club, VITC",
@@ -96,7 +146,7 @@
                 "Created various tech to make management of organization easier.",
                 "Member of interview panel."
             ],
-            "dateText": "08/2021 – Present"
+            "dateText": "08/2021 – 08/2022"
         },
         {
             "title": "Microsoft Innovations Club, VITC",
